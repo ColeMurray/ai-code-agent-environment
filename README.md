@@ -96,4 +96,4 @@ Dataclass containing execution results:
 
 ## License
 
-[Add your chosen license here]
+MIT
